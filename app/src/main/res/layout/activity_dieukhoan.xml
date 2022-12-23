@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".dieukhoan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1. Chấp nhận Thoả thuận Điều khoản Sử dụng."
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bằng việc tạo tài khoản Tinder, dù thông qua thiết bị di động, ứng dụng di động hay máy tính (gọi chung là “Dịch vụ”), bạn đồng ý bị ràng buộc bởi (i) các Điều khoản Sử dụng này, (ii) Chính sách Quyền riêng tư, Chính sách Cookie, Thủ tục Trọng tài của chúng tôi (nếu áp dụng cho bạn), Lời khuyên An toàn và Nguyên tắc Cộng đồng, mỗi nội dung này đều được đưa vào Thỏa thuận này theo hình thức tham chiếu và (iii) bất kỳ điều khoản nào mà bạn tiết lộ và đồng ý nếu bạn mua các tính năng, sản phẩm hoặc dịch vụ bổ sung mà chúng tôi cung cấp trên Dịch vụ. Nếu bạn không chấp nhận và đồng ý bị ràng buộc bởi tất cả các điều khoản của Thỏa thuận này, vui lòng không sử dụng Dịch vụ.
+Tùy từng thời điểm, chúng tôi có thể tiến hành các thay đổi với Thỏa thuận và Dịch vụ này. Chúng tôi có thể thực hiện điều này vì nhiều lý do, bao gồm phản ánh những thay đổi hoặc yêu cầu về pháp luật, các tính năng mới hoặc những thay đổi trong phương thức kinh doanh. Phiên bản mới nhất của Thỏa thuận này sẽ được đăng tải trên phần Dịch vụ trong mục Cài đặt và cả trên gotinder.com, và bạn nên thường xuyên kiểm tra phiên bản mới nhất. Phiên bản mới nhất chính là phiên bản được áp dụng. Nếu việc thay đổi bao gồm những thay đổi trực tiếp liên quan đến thỏa thuận về quyền hoặc nghĩa vụ của bạn, chúng tôi sẽ báo trước cho bạn tối thiểu 30 ngày (trừ phi chúng tôi không thể làm điều này theo luật hiện hành) bằng các cách thức hợp lý. Các cách thức này có thể bao gồm thông báo qua Dịch vụ hoặc qua email. Nếu bạn vẫn tiếp tục sử dụng Dịch vụ sau khi các thay đổi có hiệu lực, thì tức là bạn đồng ý với Thỏa thuận sửa đổi."></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2. Điều kiện sử dụng."
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bạn không được phép tạo tài khoản hoặc truy cập hay sử dụng Dịch vụ hoặc các hệ thống có chứa Dịch vụ đó trừ khi tất cả những điều sau đây đều đúng:
+                    bạn đủ từ 18 tuổi trở lên.
+                    bạn có thể tạo một hợp đồng ràng buộc với Tinder,
+                    bạn không phải là người bị cấm sử dụng Dịch vụ theo luật của Hoa Kỳ hoặc bất kỳ khu vực pháp lý hiện hành nào khác (ví dụ: bạn không xuất hiện trong danh sách Công dân được chỉ định đặc biệt của Bộ Tài chính Hoa Kỳ hoặc phải chịu bất kỳ lệnh cấm tương tự nào khác),
+                    bạn sẽ tuân thủ Thỏa thuận này và tất cả các điều luật, quy tắc và quy định hiện hành của địa phương, tiểu bang, quốc gia và quốc tế, và
+                    bạn chưa bao giờ bị kết án vì trọng tội hoặc phạm tội có thể bị truy tố (hoặc phạm tội ở mức độ nghiêm trọng tương đương), phạm tội về tình dục, hoặc bất kỳ tội nào liên quan đến bạo lực, và bạn không bị ghi danh là tội phạm ở bất kỳ hồ sơ tội phạm của bất kỳ bang nào, hồ sơ liên bang hoặc hồ sơ tội phạm tình dục địa phương"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3. Tài khoản của Bạn."
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Để sử dụng Tinder, bạn có thể đăng nhập bằng nhiều cách, bao gồm cả đăng nhập qua Facebook. Nếu chọn sử dụng Facebook của mình để đăng nhập, bạn cho phép chúng tôi truy cập và sử dụng một số thông tin nhất định của tài khoản Facebook đó, bao gồm nhưng không giới hạn ở hồ sơ Facebook công khai của bạn. Để biết thêm về các thông tin chúng tôi thu thập từ bạn và cách chúng tôi sử dụng các thông tin đó, vui lòng tham khảo Chính sách Quyền riêng tư
+Bạn có trách nhiệm duy trì tính bảo mật của các thông tin đăng nhập của bạn mà bạn sử dụng để đăng ký Tinder, và bạn tự chịu trách nhiệm cho tất cả các hoạt động xảy ra theo các thông tin này. Nếu bạn cho rằng ai đó đã có quyền truy cập vào tài khoản của bạn, vui lòng liên hệ ngay với chúng tôi."></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4. Sửa đổi Dịch vụ và Ngừng sử dụng."
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tinder luôn nỗ lực để cải tiến Dịch vụ và mang đến cho bạn chức năng bổ sung mà bạn sẽ thấy hấp dẫn và hữu ích. Điều này có nghĩa là chúng tôi có thể thêm các tính năng hoặc cải tiến sản phẩm mới tùy từng thời điểm cũng như loại bỏ một số tính năng và nếu các hành động này không"></TextView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

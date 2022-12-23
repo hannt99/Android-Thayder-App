@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558332418872",
+    "firebase_url": "https://datingapp-135e3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "datingapp-135e3",
+    "storage_bucket": "datingapp-135e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558332418872:android:b7ccaaebc91eb261913fcd",
+        "android_client_info": {
+          "package_name": "com.example.datingapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558332418872-pg1cll89o68q42je47to5jcm08o717io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHDxErakPwKX8xn9MkKFBuvPwZjkStJ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558332418872-pg1cll89o68q42je47to5jcm08o717io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

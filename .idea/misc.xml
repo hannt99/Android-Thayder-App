@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/botronbtn.xml" value="0.1435" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/dislike_border.xml" value="0.138" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/gradation_black.xml" value="0.172" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_arrow_downward_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_arrow_upward_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_iconfinder_draw_pencil_addicted_love.xml" value="0.1435" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/ic_tinder.xml" value="0.1435" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/like_border.xml" value="0.138" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/drawable/overlay_black.xml" value="0.156" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_choose_login_and_reg.xml" value="0.25416666666666665" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_dieukhoan.xml" value="0.22760416666666666" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_login.xml" value="0.22760416666666666" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/activity_splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/fragment_notifications.xml" value="0.21666666666666667" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/layout/item_card.xml" value="0.21666666666666667" />
+        <entry key="..\:/HAN/Software Engineer/03-Android Mobile Applications/Final Project/project/test/DatingApp2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
