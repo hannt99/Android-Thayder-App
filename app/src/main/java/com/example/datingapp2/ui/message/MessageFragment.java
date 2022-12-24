@@ -144,16 +144,14 @@ public class MessageFragment extends Fragment {
                         .centerCrop()
                         .into(ivAvatar);
                 //tvName.setText(model.getNickName());
-                //tring name = "ABC";
                 String name = model.getUserName();
                 tvName.setText(name);
                 Log.d("name", name);
-                //tvName.setText("phi");
 
                 v.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Toast.makeText(getContext(), "Chat With " + model.getNickName(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getContext(), "Chat with " + model.getUserName(), Toast.LENGTH_SHORT).show();
 
                         Log.d("fragmentchatwith", "from " + sharedPref.getString("UserName", "empty") + " to " + sharedPref.getString("ChatWith", "empty"));
 

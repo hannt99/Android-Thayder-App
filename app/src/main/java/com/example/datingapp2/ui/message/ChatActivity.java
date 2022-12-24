@@ -147,15 +147,28 @@ public class ChatActivity extends AppCompatActivity {
             protected void populateView(View v, ChatMessage model, int position) {
                 // Get references to the views of message.xml
                 TextView messageUser = (TextView) v.findViewById(R.id.message_user);
+
                 TextView messageText = (TextView) v.findViewById(R.id.message_text);
                 TextView messageTime = (TextView) v.findViewById(R.id.message_time);
                 // Set their text
                 messageUser.setText(model.getMessageUser());
                 messageText.setText(model.getMessageText());
                 messageTime.setText(model.getMessageTime());
+
+                scrollMyListViewToBottom();
             }
         };
         listOfMessages.setAdapter(adapter);
+    }
+
+    private void scrollMyListViewToBottom() {
+        listOfMessages.post(new Runnable() {
+            @Override
+            public void run() {
+                // Select the last row so it will scroll into view...
+                listOfMessages.setSelection(listOfMessages.getCount() - 1);
+            }
+        });
     }
 
     public String getTime() {

@@ -50,9 +50,7 @@ public class SettingsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_settings);
 
         initFirebase();
-
         initView();
-
         setupListener();
     }
 
@@ -92,6 +90,7 @@ public class SettingsActivity extends AppCompatActivity {
                         tuoicuoi = dataSnapshot.child("Dotuoi").child("Tuoicuoi").getValue().toString();
                         tv_dotuoi.setText(tuoidau + " - " + tuoicuoi + " Tuổi");
                     }
+
                 }
             }
 
@@ -123,7 +122,6 @@ public class SettingsActivity extends AppCompatActivity {
         switch_Toancau.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-                Toast.makeText(SettingsActivity.this, "switch changed", Toast.LENGTH_SHORT).show();
             }
         });
 
